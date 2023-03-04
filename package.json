@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
   "main": "index.js",
-  "repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
+  "repository": "https://github.com/damkondwar-shubham/damkondwar-shubham.github.io.git",
+  "homepage": "https://damkondwar-shubham.github.io/damkondwar-shubham.github.io",
   "author": "Shubham Damkondwar",
   "license": "MIT",
   "scripts": {
@@ -11,7 +12,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint && prettier --check .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@apollo/client": "^3.3.21",
