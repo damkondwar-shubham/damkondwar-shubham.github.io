@@ -2,7 +2,7 @@
 
 👤 **Shubham Damkondwar**
 
-- Website: https://damkondwar-shubham.github.io/
-- Github: [@damkondwar-shubham](https://github.com/damkondwar-shubham)
+- Website: https://shubhamdamkondwar.github.io/
+- Github: [@damkondwar-shubham](https://github.com/dshubham771)
 - LinkedIn: [@sdamkondwar](https://www.linkedin.com/in/sdamkondwar/)
 
